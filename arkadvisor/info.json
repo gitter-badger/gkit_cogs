@@ -1,10 +1,10 @@
 {
-    "AUTHOR" : "Gannon",
-    "SHORT" : "",
-    "DESCRIPTION" : "",
-    "DISABLED" : false,
-    "NAME" : "ArkAdvisor",
-    "REQUIREMENTS" : ["beautifulsoup4"],
-    "TAGS" : ["fun", "gaming", "ARK"],
-    "INSTALL_MSG" : "Usage: `[p]help ark`"
+    "author" : ["Gannon"],
+    "description" : "This cog uses BS4 to scrape the ARK: survival Evolved official wiki for various information.",
+    "hidden" : false,
+    "install_msg" : "Usage: `[p]help ark`",
+    "requirements" : ["beautifulsoup4"],
+    "short" : "The ARK: Survival Evolved wiki in, a cog.",
+    "tags" : ["fun", "gaming", "ARK"],
+    "type": "COG"
 }

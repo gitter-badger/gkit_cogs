@@ -1,9 +1,8 @@
 {
-    "AUTHOR" : "Gannon",
-    "SHORT" : "Feed your Salty Bet gambling addiction.",
-    "DESCRIPTION" : "Feed your Salty Bet gambling addiction.",
-    "DISABLED" : true,
-    "NAME" : "SaltyDebt",
-    "TAGS" : ["fun", "gaming", "SaltyBet", "Salty", "Bet"],
-    "INSTALL_MSG" : "Usage: `[p]help salty`"
+    "author" : ["Gannon"],
+    "short" : "Feed your Salty Bet gambling addiction.",
+    "description" : "Feed your Salty Bet gambling addiction.",
+    "hidden" : true,
+    "tags" : ["fun", "gaming", "SaltyBet", "Salty", "Bet"],
+    "install_msg" : "Usage: `[p]help salty`"
 }

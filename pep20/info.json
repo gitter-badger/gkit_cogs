@@ -1,9 +1,9 @@
 {
-    "AUTHOR" : "Gannon",
-    "SHORT" : "The word of the BDFL is law.",
-    "DESCRIPTION" : "The word of the BDFL is law.",
-    "DISABLED" : false,
-    "NAME" : "BDFL",
-    "TAGS" : ["zen", "pep20", "law"],
-    "INSTALL_MSG" : "Usage: `[p]help bdfl`"
+    "author" : ["Gannon"],
+    "short" : "The word of the BDFL is law.",
+    "description" : "The word of the BDFL is law.",
+    "hidden" : false,
+    "tags" : ["zen", "pep20", "law"],
+    "install_msg" : "Usage: `[p]help bdfl`",
+    "type": "COG"
 }

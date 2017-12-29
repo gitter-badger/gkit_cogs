@@ -1,9 +1,9 @@
 {
-    "AUTHOR" : "Gannon",
-    "SHORT" : "BASTA, SATAN! BASTA!",
-    "DESCRIPTION" : "And so the lord said to me, BASTA! I'm telling you, IT'S ENOUGH!",
-    "DISABLED" : false,
-    "NAME" : "BASTA",
-    "TAGS" : ["fun", "Jim Bakker", "BASTA"],
-    "INSTALL_MSG" : "Usage: `[p]help basta`"
+    "author" : ["Gannon"],
+    "short" : "BASTA, SATAN! BASTA!",
+    "description" : "And so the lord said to me, BASTA! I'm telling you, IT'S ENOUGH!",
+    "hidden" : false,
+    "tags" : ["fun", "Jim Bakker", "BASTA"],
+    "install_msg" : "Usage: `[p]help basta`",
+    "type": "COG"
 }
