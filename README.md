@@ -1,5 +1,5 @@
 [![PyPI](https://img.shields.io/badge/Python-3.5-blue.svg)](https://www.python.org/downloads/) 
-[![Red Bot](https://img.shields.io/badge/Red-V2-red.svg)](https://github.com/Twentysix26/Red-DiscordBot)
+[![Red Bot](https://img.shields.io/badge/Red-V3-red.svg)](https://github.com/Twentysix26/Red-DiscordBot)
 [![Cogs.Red](https://img.shields.io/badge/Cogs.Red-gkit__cogs-red.svg)](https://cogs.red/cogs/gannon93/gkit_cogs/)
 
 # Gannon Toolkit Library - Cogs (gkit_cogs)
